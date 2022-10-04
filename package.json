@@ -1,0 +1,16 @@
+{
+	"name": "nav-kodeoppgave",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^29.1.2"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
