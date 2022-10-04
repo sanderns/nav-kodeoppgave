@@ -9,7 +9,7 @@
 const baseAmount = 111477;
 const workDays = 260;
 
-const checkUser = (y21, y20, y19) => {
+const checkEligibility = (y21, y20, y19) => {
 	// Variables
 	const totalIncome = y21 + y20 + y19;
 	const averageIncome = totalIncome / 3;
@@ -32,4 +32,4 @@ const checkUser = (y21, y20, y19) => {
 	return Math.ceil(highestIncome / workDays);
 };
 
-module.exports = checkUser;
+module.exports = checkEligibility;
