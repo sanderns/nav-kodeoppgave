@@ -20,7 +20,7 @@ const checkUser = (y21, y20, y19) => {
 	const check3G = totalIncome > baseAmount * 3;
 	const check6G = highestIncome > baseAmount * 6;
 
-    // Guard clauses
+	// Guard clauses
 	if (!check15G && !check3G) {
 		return 0;
 	}
