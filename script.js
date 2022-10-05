@@ -1,8 +1,8 @@
 //
 //
-//  File created 03.10.2022 23:31
-//  By Sander Nordhagen Svingen
-//  sanderns on Github
+//	File created 03.10.2022 23:31
+//	By Sander Nordhagen Svingen
+//	sanderns on Github
 //
 //
 //	Jeg skriver alt i filen på Engelsk, fordi det er en vane
