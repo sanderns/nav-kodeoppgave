@@ -10,7 +10,6 @@
 //	synes at god kode må gjøre seg selv forstått, og det er ikke
 //	nødvendigvis at mine fremtidige kolleger eller de som skal
 //	vedlikeholde koden kan Norsk like godt.
-//	For oppgaven her skriver jeg kommentarer som denne på Norsk.
 //
 //
 
@@ -18,8 +17,6 @@ const baseAmount = 111477;
 const workDays = 260;
 
 const checkEligibility = (y21, y20, y19) => {
-	// Jeg kunne også ha tatt inn et objekt eller et array som
-	// argument, så desctructure det til tre forskjellige variabler.
 
 	// Variables
 	const totalIncome = y21 + y20 + y19;
