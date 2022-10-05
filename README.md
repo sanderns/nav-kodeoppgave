@@ -49,7 +49,7 @@ Variablene ønsket jeg på plass med en gang siden de skal refereres til rett et
 ```JavaScript
 const totalIncome = y21 + y20 + y19;
 const averageIncome = totalIncome / 3;
-const highestIncome = Math.max(y21, averageIncome); 
+const highestIncome = Math.max(y21, averageIncome);
 ```
 
 Enda fler variabler som sjekker om argumentene sendt med funksjonen fyller visse krav som om inntekt siste år er mer enn 1,5G, om gjennomsnittsinntekten siste tre år er mer enn 3G og om den høyeste inntekten mellom siste år og gjennomsnittet fra de tre siste årene er mer enn 6G. Alle blir isåfall lagret som true eller false for forenkling av if statements senere i koden.
