@@ -28,6 +28,8 @@ Jeg har fått i oppgave fra NAV IT å skrive en kode som regner ut hvor mye dagp
 
 ## Litt om tankegangen min under kodingen
 
+Først og fremst valgte jeg å skrive oppgaven i JavaScript med Jest for testing.
+
 Under kodingen fant jeg ut at det er greit å ha disse variablene på plass som typ globale variabler, siden jeg kommer til å bruk for de senere i koden.
 
 ```JavaScript
