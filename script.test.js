@@ -1,6 +1,6 @@
 const checkEligibility = require('./script');
 
-test('should not return daily allowance, since 3G and 1.5G does not pass', () => {
+test('should return 0, since 3G and 1.5G does not pass', () => {
 	expect(checkEligibility(120000, 80000, 40000)).toBe(0);
 });
 
